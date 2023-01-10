@@ -16,9 +16,9 @@ a{
 
 address{text-align: center;}
 
-section{ color: forestgreen;text-align-last: center; background-color: yellow;}
-footer{ color: forestgreen;}
-nav{ color: forestgreen;}
-li{color: forestgreen;}
-p{ color: forestgreen;padding: 20px; text-align: center;}
+section{ color: black;text-align-last: center; background-color: yellow;}
+footer{ color: black; background-color: grey;}
+nav{ color: black;}
+li{color: greenyellow; background-color: grey;}
+p{ color: greenyellow;padding: 20px; text-align: center;}
 h3{background-color: yellow;}
