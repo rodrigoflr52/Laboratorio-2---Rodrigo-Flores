@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1{
+    background-color: grey;
+    color: greenyellow;
+    text-align-last: center;
+}
+
+a{
+    color: greenyellow;
+    background-color: grey;
+}
+
+address{text-align: center;}
+
+section{ color: forestgreen;text-align-last: center; background-color: yellow;}
+footer{ color: forestgreen;}
+nav{ color: forestgreen;}
+li{color: forestgreen;}
+p{ color: forestgreen;padding: 20px; text-align: center;}
+h3{background-color: yellow;}
